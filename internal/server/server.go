@@ -4,9 +4,9 @@ import (
 	"log"
 	"net"
 
-	"github.com/apavanello/gRPC-Calculato/internal/Calculator"
-	"github.com/apavanello/gRPC-Calculato/internal/MyVersion"
-	"github.com/apavanello/gRPC-Calculato/pkg/calculatorpb"
+	"github.com/apavanello/gRPC-Calculator/internal/Calculator"
+	"github.com/apavanello/gRPC-Calculator/internal/MyVersion"
+	"github.com/apavanello/gRPC-Calculator/pkg/calculatorpb"
 	"google.golang.org/grpc"
 )
 

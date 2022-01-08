@@ -1,6 +1,6 @@
 package main
 
-import "github.com/apavanello/gRPC-Calculato/internal/server"
+import "github.com/apavanello/gRPC-Calculator/internal/server"
 
 func main() {
 

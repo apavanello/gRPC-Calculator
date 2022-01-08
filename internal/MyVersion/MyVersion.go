@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/apavanello/gRPC-Calculato/pkg/calculatorpb"
-	"github.com/apavanello/gRPC-Calculato/versioninfo"
+	"github.com/apavanello/gRPC-Calculator/pkg/calculatorpb"
+	"github.com/apavanello/gRPC-Calculator/versioninfo"
 )
 
 type Server struct{}

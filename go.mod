@@ -1,4 +1,4 @@
-module github.com/apavanello/gRPC-Calculato
+module github.com/apavanello/gRPC-Calculator
 
 go 1.17
 
